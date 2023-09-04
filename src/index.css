@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  min-height: 100vh;
+}
+
+header {
+  background-color: white;
+  color: rgb(129, 85, 155);
+  border-bottom: 2px solid rgb(63, 5, 80);
+}
+
+nav {
+  text-align: center;
+  font-family: cursive;
+}
+
+header a {
+  font-size: 14px;
+  padding: 5px;
+  margin: 10px;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  border-top: 1px solid rgb(63, 54, 80);
+}
