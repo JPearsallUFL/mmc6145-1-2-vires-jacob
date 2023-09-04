@@ -1,4 +1,4 @@
-export default function Project({title, info, project_url}) {
+export default function Project({title, project_url}) {
     return (
         <div>
             <h3>{title}</h3>
